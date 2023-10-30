@@ -1,0 +1,10 @@
+.button{
+    border:none;
+    color: green;
+    text-align: center;
+    font: 16px;
+    cursor: pointer;
+}
+.button:hover{
+    background-image: linear-gradient(rgb(0 0 0/40%)0 0);
+}

@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@ngrok/ngrok": "^0.9.0",
+    "canvas": "^2.11.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "formidable": "^3.5.1",
+    "module": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "name": "spotifyattempt",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
