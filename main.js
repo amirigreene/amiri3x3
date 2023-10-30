@@ -19,8 +19,8 @@ function generateRandomString(length) {
 
 var client_id = process.env.client_id;
 var client_secret = process.env.client_secret;
-var ngrokUri ='https://36e7-67-231-66-202.ngrok-free.app'// this will change each fresh ngrok
-var redirect_uri =`${ngrokUri}/callback`;
+var vercelUri ='https://amiri3x3.vercel.app/'// this will change each fresh ngrok
+var redirect_uri =`${vercelUri}/callback`;
 
 //my PC to spotify
 app.get('/login', function(req,res){
