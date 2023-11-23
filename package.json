@@ -9,6 +9,7 @@
     "formidable": "^3.5.1",
     "module": "^1.0.0",
     "node-fetch": "^3.3.2",
+    "qs": "^6.11.2",
     "spotify-web-api-node": "^5.0.2"
   },
   "name": "spotifyattempt",
