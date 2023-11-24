@@ -3,7 +3,7 @@ const querystring = require('qs');
 require("dotenv").config();
 
 var client_id = process.env.client_id;
-var vercelUri ='http://localhost:5500';// this will change each fresh ngrok
+var vercelUri ='https://amiri3x3.pages.dev';// this will change each fresh ngrok
 var redirect_uri =`${vercelUri}/callback`;
 
 //my PC to spotify
